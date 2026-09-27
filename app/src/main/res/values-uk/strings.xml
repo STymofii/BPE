@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BPE</string>
+    <string name="hello_text">Привіт, Світ!</string>
+    <string name="btn_greet">Привіт</string>
+    <string name="btn_reset">Скидання</string>
+    <string name="next">Наступний</string>
+    <string name="previous">Папірєднік</string>
+</resources>
